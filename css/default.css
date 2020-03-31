@@ -1,4 +1,9 @@
 @charset "UTF-8";
+
+.align-self-center {
+  -ms-flex-item-align: center !important;
+  align-self: center !important;
+}
 .op-header {
   position: fixed;
   width: 100%;
@@ -624,7 +629,7 @@ a {
 }
 
 [class^="op-section-"] {
-  padding: 122px 0;
+  padding: 20px 0;
   position: relative;
 }
 [class^="op-section-"]:before {
@@ -1860,7 +1865,7 @@ ul.social-icons li.active a i {
 }
 
 .op-section-blog {
-  padding-bottom: 260px;
+  padding-bottom: 0px;
   background-color: #f5f8fb;
 }
 .op-section-blog.white-bg {
