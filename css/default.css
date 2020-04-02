@@ -648,7 +648,7 @@ a {
   margin-bottom: 60px;
 }
 [class^="op-section-"] .container .row div[class*="col-"] h2 {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 [class^="op-section-"].dark-bg {
   background-color: #1a2431;
@@ -2122,7 +2122,7 @@ ul.social-icons li.active a i {
 }
 .op-counters.variation2 {
   position: relative;
-  padding: 122px 0;
+  padding: 10px 0;
   max-width: 100%;
   bottom: initial;
   box-shadow: none;
@@ -3087,7 +3087,7 @@ footer .copyrights-row {
   }
 
   [class^="op-section-"] {
-    padding: 80px 0;
+    padding: 10px 0;
     position: relative;
   }
   [class^="op-section-"]:before {
@@ -3151,7 +3151,7 @@ footer .copyrights-row {
     line-height: 42px;
   }
   .op-counters.variation2 {
-    padding: 80px 0;
+    padding: 10px 0;
   }
   .op-counters.variation2 .counter-col {
     margin-bottom: 0;
