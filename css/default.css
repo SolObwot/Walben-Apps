@@ -1380,7 +1380,7 @@ ul.social-icons li.active a i {
 }
 
 .op-section-features {
-  padding: 22px 0 100px 0;
+  padding: 22px 0 20px 0;
 }
 .op-section-features:before {
   background: url("../imgs/features-bg-shape.png");
