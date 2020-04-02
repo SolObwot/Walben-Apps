@@ -1,5 +1,10 @@
 @charset "UTF-8";
 
+.btn-success {
+  /* color: #65bc7b !important; */
+  background-color: #65bc7b !important;
+}
+
 .align-self-center {
   -ms-flex-item-align: center !important;
   align-self: center !important;
@@ -638,7 +643,7 @@ a {
 }
 [class^="op-section-"] h2 {
   text-align: center;
-  margin-bottom: 70px;
+  margin-bottom: 50px;
 }
 [class^="op-section-"] h2 + .center-small-width {
   text-align: center;
@@ -3144,7 +3149,7 @@ footer .copyrights-row {
     margin-bottom: 30px;
   }
   .op-counters div[class^="col-"]:nth-last-of-type(-n + 2) {
-    margin-bottom: 0;
+    margin-bottom: 50px;
   }
   .op-counters .counter-box span.number {
     font-size: 42px;
