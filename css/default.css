@@ -2571,7 +2571,7 @@ form {
 }
 
 .op-section-contact-details {
-  padding: 130px 0 110px;
+  padding: 25px 0 50px;
 }
 .op-section-contact-details
   .contact-col:nth-child(3n + 3)
@@ -2795,7 +2795,7 @@ footer .copyrights-row {
     position: relative;
     background-color: #1a2431;
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 40px;
   }
   .op-header .op-logo-wrapper {
     position: absolute;
